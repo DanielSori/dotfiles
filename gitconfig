@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = danielsoriano02@gmail.com
+	name = Daniel Soriano
